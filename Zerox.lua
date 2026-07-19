@@ -1,5 +1,3 @@
--- Zerox UI Library v1.0
--- Da Hood Inspired UI for Roblox Executors
 
 local Zerox = {}
 Zerox.__index = Zerox
